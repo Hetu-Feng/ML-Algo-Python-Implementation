@@ -1,2 +1,1 @@
-# ML_Models_in_Python
-python implementations machine learning models
+python implementations of machine learning models
