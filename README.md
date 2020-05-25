@@ -1,1 +1,1 @@
-python implementations of machine learning models
+python implementations of machine learning algorithms
