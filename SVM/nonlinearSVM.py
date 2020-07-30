@@ -1,5 +1,4 @@
 
-# Team: Xiao Yang, Hetu Feng
 
 import numpy as np
 import cvxopt
