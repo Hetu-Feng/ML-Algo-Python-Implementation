@@ -1,7 +1,4 @@
 
-# Team Member: Xiao Yang, Hetu Feng
-
-
 import numpy as np
 from collections import defaultdict
 
